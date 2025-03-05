@@ -1,4 +1,6 @@
-# Matthew Beardwell | Aspiring SOC Analyst  
+![Banner](https://raw.githubusercontent.com/mbeardwell/mbeardwell/main/banner.png)
+
+# Matthew Beardwell | Aspiring SOC Analyst   
 
 ## About Me  
 I am an aspiring SOC Analyst with a First-Class Honours BSc in Computer Science from King’s College London. My interests include security operations, threat detection, log analysis, and network security.  
