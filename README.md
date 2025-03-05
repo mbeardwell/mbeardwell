@@ -22,20 +22,20 @@ I have hands-on experience with SIEM platforms, network traffic analysis, and se
 ## Featured Projects  
 
 ### TCP Port Scanner  
-- **Technology:** Python, Scapy, Multithreading  
+- **Technology:** Python, Multithreading  
 - **Description:** Scans for open TCP ports and detects live hosts  
-- **Repository:** [View Project](#simple-port-scanner)  
+- **Repository:** [View Project](https://github.com/mbeardwell/simple-port-scanner)  
 
 ### Neural Network Language Classifier  
-- **Technology:** Python, TensorFlow, NLP  
+- **Technology:** Python
 - **Description:** Classifies words into languages using a neural network  
-- **Repository:** [View Project](#language-guesser)  
+- **Repository:** [View Project](https://github.com/mbeardwell/language-guesser)  
 
 ### Faster Dynamically Instrumented Programs  
 - **Technology:** C, Assembly, Dynamic Binary Instrumentation  
 - **Description:** Third-year university project at King’s College London exploring floating-point emulation in ARM Linux.  
   This project proposes a more efficient method for emulating floating-point instructions by replacing them with direct branches to emulation code within the same process' memory. The goal was to reduce execution overhead caused by kernel-based emulation.  
-- **Repository:** [View Project](#arm-fp-emu)
+- **Repository:** [View Project](https://github.com/mbeardwell/arm-fp-emu)
 
 ## Certifications and Learning  
 - **TryHackMe (107 completed rooms)**  
