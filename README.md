@@ -48,7 +48,7 @@ I have hands-on experience with SIEM platforms, network traffic analysis, and se
 - CompTIA Security+ (In Progress)  
 
 ## Contact and Links  
-- **LinkedIn:** [Profile](https://www.linkedin.com/in/matthew-b-a00238113)
+- **LinkedIn:** [Profile](https://www.linkedin.com/in/mbeardwell)
 - **GitHub:** [Profile](https://github.com/mbeardwell)  
 - **TryHackMe:** [Profile](https://tryhackme.com/p/mbeardwell)  
 - **Email:** [matthewbeardwell@gmail.com](mailto:matthewbeardwell@gmail.com)  
