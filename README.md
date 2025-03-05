@@ -7,10 +7,10 @@ I have hands-on experience with SIEM platforms, network traffic analysis, and se
 
 ## Technical Skills  
 ### Security and SOC Tools  
-- SIEM: Splunk
+- SIEM: Splunk (basic)  
 - Network Security: Wireshark, Firewall Configurations, TCP/IP  
 - Threat Analysis: OSINT, Burp Suite, Metasploit  
-- Log Analysis: Sysmon, Windows Event Logs
+- Log Analysis: Sysmon, Windows Event Logs  
 
 ### Programming and Automation  
 - Python (log parsing, network scanning, automation)  
@@ -29,18 +29,24 @@ I have hands-on experience with SIEM platforms, network traffic analysis, and se
 - **Description:** Classifies words into languages using a neural network  
 - **Repository:** [View Project](#language-guesser)  
 
-### ARM Floating-Point Emulator  
-- **Technology:** C, Assembly, Reverse Engineering  
-- **Description:** Final-year BSc project on CPU performance
-- **Repository:** [View Project](#arm-fp-emu)  
+### Faster Dynamically Instrumented Programs  
+- **Technology:** C, Assembly, Dynamic Binary Instrumentation  
+- **Description:** Third-year university project at King’s College London exploring floating-point emulation in ARM Linux.  
+  This project proposes a more efficient method for emulating floating-point instructions by replacing them with direct branches to emulation code within the same process' memory. The goal was to reduce execution overhead caused by kernel-based emulation.  
+- **Repository:** [View Project](#arm-fp-emu)
 
 ## Certifications and Learning  
-- TryHackMe Badges: [...]
+- **TryHackMe (107 completed rooms)**  
+  - Linux Fundamentals  
+  - Web Exploitation (Burp Suite, Metasploit)  
+  - Windows Exploitation (EternalBlue)  
+  - OSINT Investigations (OhSINT)  
+  - Cryptography (Hash Cracking)  
 - UKMT Senior Maths Challenge - Gold Award  
 - CompTIA Security+ (In Progress)  
 
 ## Contact and Links  
-- **LinkedIn:** [mbeardwell]((https://www.linkedin.com/in/matthew-b-a00238113))  
+- **LinkedIn:** [mbeardwell](https://www.linkedin.com/in/matthew-b-a00238113)
 - **GitHub:** [mbeardwell](https://github.com/mbeardwell)  
 - **TryHackMe:** [Profile](https://tryhackme.com/p/mbeardwell)  
 - **Email:** [matthewbeardwell@gmail.com](mailto:matthewbeardwell@gmail.com)  
