@@ -1,4 +1,4 @@
-![Banner](https://raw.githubusercontent.com/mbeardwell/mbeardwell/main/banner.png)
+![Banner](https://github.com/mbeardwell/mbeardwell/blob/13f54e5414dea099cf19a55c4327883f81859eb0/main/banner.png)
 
 # Matthew Beardwell | Aspiring SOC Analyst   
 
