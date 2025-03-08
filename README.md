@@ -38,7 +38,7 @@ I have hands-on experience with SIEM platforms, network traffic analysis, and se
 - **Repository:** [View Project](https://github.com/mbeardwell/arm-fp-emu)
 
 ## Certifications and Learning  
-- **TryHackMe (107 completed rooms)**  
+- **TryHackMe (100+ completed rooms)**  
   - Linux Fundamentals  
   - Web Exploitation (Burp Suite, Metasploit)  
   - Windows Exploitation (EternalBlue)  
