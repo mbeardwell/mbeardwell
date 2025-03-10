@@ -20,8 +20,3 @@ I am an **aspiring SOC Analyst** with a passion for **threat detection, SIEM, OS
 - 🛠️ **[Neural Network Language Classifier](https://github.com/mbeardwell/language-guesser)** – Classifies words into languages using a simple ML model
   
 ---
-
-**Connect with me:**  
-🔗 **[LinkedIn](https://www.linkedin.com/in/mbeardwell)**  
-🔗 **[TryHackMe](https://tryhackme.com/p/mbeardwell)**  
-🔗 **[GitHub](https://github.com/mbeardwell)**  
