@@ -1,22 +1,11 @@
-<p align="center">
-  <img src="./main/banner.png" alt="Banner">
-</p>
-
 <h2 align="center">Threat Detection | SIEM | OSINT | Security Automation</h3>
 <h4 align="center">Top 1% TryHackMe | 100+ Labs | 16 Badges</h4>
 
----
+I am an **aspiring SOC Analyst** with a passion for **threat detection, SIEM, OSINT, and security automation**. I specialize in **log analysis, security research, and incident response**. Through hands-on labs and independent research, I develop tools and techniques for **network security, forensics, and security monitoring**.
 
-I am an **aspiring SOC Analyst** with a passion for **threat detection, SIEM, OSINT, and security automation**. I specialize in **log analysis, security research, and incident response**. Through hands-on labs and independent research, I develop tools and techniques for **network security, forensics, and security monitoring**.  
-
-## **Technical Skills**
-- **SIEM & Log Analysis:** Splunk, Sysmon, Windows Event Logs  
-- **Incident Response & Threat Hunting:** Network traffic analysis, forensic investigation  
-- **OSINT & Security Research:** Shodan, Google Dorking, metadata analysis  
-- **Cybersecurity Tools:** Wireshark, Metasploit, Burp Suite  
-- **Programming & Automation:** Python, Bash, PowerShell  
-
-## **Projects & Research**
+<h4 align="center">
+Projects & Research
+</h4>
 
 <div align="center">
 
