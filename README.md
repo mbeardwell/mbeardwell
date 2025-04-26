@@ -2,7 +2,7 @@
   <img src="./main/banner.png" alt="Banner">
 </p>
 
-<h3 align="center">Threat Detection | SIEM | OSINT | Security Automation</h3>
+<h2 align="center">Threat Detection | SIEM | OSINT | Security Automation</h3>
 <h4 align="center">Top 1% TryHackMe | 100+ Labs | 16 Badges</h4>
 
 ---
