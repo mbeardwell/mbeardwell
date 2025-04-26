@@ -2,12 +2,10 @@
   <img src="./main/banner.png" alt="Banner">
 </p>
 
-<br>
+<h3 align="center">Threat Detection | SIEM | OSINT | Security Automation</h3>
+<h4 align="center">Top 1% TryHackMe | 100+ Labs | 16 Badges</h4>
 
-**<div align="center">Threat Detection | SIEM | OSINT | Security Automation</div>**
-**<div align="center">Top 1% on TryHackMe (100+ rooms, 16 badges)</div>**
-
-<br>
+---
 
 I am an **aspiring SOC Analyst** with a passion for **threat detection, SIEM, OSINT, and security automation**. I specialize in **log analysis, security research, and incident response**. Through hands-on labs and independent research, I develop tools and techniques for **network security, forensics, and security monitoring**.  
 
