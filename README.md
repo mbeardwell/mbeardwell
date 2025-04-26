@@ -5,11 +5,8 @@
 **<div align="center">Threat Detection | SIEM | OSINT | Security Automation</div>**
 **<div align="center">Top 1% on TryHackMe (100+ rooms, 16 badges)</div>**
 <br>
-<br>
 
 I am an **aspiring SOC Analyst** with a passion for **threat detection, SIEM, OSINT, and security automation**. I specialize in **log analysis, security research, and incident response**. Through hands-on labs and independent research, I develop tools and techniques for **network security, forensics, and security monitoring**.  
-
-<br>
 
 ## **Technical Skills**
 - **SIEM & Log Analysis:** Splunk, Sysmon, Windows Event Logs  
@@ -17,8 +14,6 @@ I am an **aspiring SOC Analyst** with a passion for **threat detection, SIEM, OS
 - **OSINT & Security Research:** Shodan, Google Dorking, metadata analysis  
 - **Cybersecurity Tools:** Wireshark, Metasploit, Burp Suite  
 - **Programming & Automation:** Python, Bash, PowerShell  
-
-<br>
 
 ## **Projects & Research**
 - 🛠️ **[TCP Port Scanner](https://github.com/mbeardwell/simple-port-scanner)** – Python-based scanner to detect open ports & live hosts  
