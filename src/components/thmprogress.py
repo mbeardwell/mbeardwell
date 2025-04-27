@@ -1,5 +1,6 @@
 import constants
 from playwright.sync_api import sync_playwright
+from datetime import datetime
 
 def wait_for_xpath(page, xpath):
     page.wait_for_selector(f"xpath={xpath}")
@@ -8,7 +9,6 @@ def get_text(page, selector):
     xpath = constants.SELECTORS[selector]
     wait_for_xpath(page, xpath)
     return page.locator(f"xpath={xpath}").all_inner_texts()[0]
-
 
 def create():
     # Navigate to my profile page
@@ -31,7 +31,8 @@ def create():
 
     # Write output .md
     with open(constants.THM_STATS_MD, 'w') as file:
-        file.write(f"{percentile} TryHackMe | {labs} Rooms | {badges} Badges\n")
+        updated_str = f"Updated: {datetime.today().strftime('%a, %d %b %y')}"
+        file.write(f"{percentile} TryHackMe | {labs} Rooms | {badges} Badges ({updated_str})\n")
 
     browser.close()
     playwright.stop()

@@ -1,9 +1,9 @@
-<pre style="white-space: pre-wrap; word-wrap: break-word;">
+<pre>
 
 <strong>mbeardwell@github</strong>:<strong>~/Documents</strong>$ cat about.txt
 
 Threat Detection | SIEM | OSINT | Security Automation
-Top 1% TryHackMe | 114 Rooms | 16 Badges
+Top 1% TryHackMe | 114 Rooms | 16 Badges (Updated: Sun, 27 Apr 25)
 
 == Bio ===
 
