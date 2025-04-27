@@ -6,6 +6,7 @@ import textwrap
 TABLE_MD = '../docs/table.md'
 PROJECTS_CSV = '../docs/projects.csv'
 HEADERS = {"Title": 0, "Repo": 1, "Description": 2}
+DESCR_WIDTH = 50
 
 def get_row_val(row, key):
     return row[HEADERS[key]]
@@ -26,7 +27,7 @@ filtered = filter(projects, ["Title", "Description"])
 for row in filtered:
     indexTitle, indexDesc = 0, 1
     row[indexTitle] = "~{}~".format(row[indexTitle])
-    row[indexDesc] = textwrap.fill(row[indexDesc], width=10).replace('\n', '<br>')
+    row[indexDesc] = textwrap.fill(row[indexDesc], width=DESCR_WIDTH).replace('\n', '<br>')
 
 table_str = tabulate(filtered, headers=["Title", "Description"], tablefmt='github', showindex=False)
 

@@ -1,4 +1,4 @@
-```bash
+<pre>
 
 <strong>Threat Detection | SIEM | OSINT | Security Automation</strong>
 <strong>Top 1% TryHackMe | 100+ Labs | 16 Badges</strong>
@@ -9,4 +9,4 @@ I am an <strong>aspiring SOC Analyst</strong> with a passion for <strong>threat 
 
 __TABLE__
 
-```
+</pre>
