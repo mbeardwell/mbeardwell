@@ -8,10 +8,9 @@ Top 1% TryHackMe | 114 Rooms | 16 Badges (Updated: Sun, 27 Apr 25)
 == Bio ===
 
 I am a Computer Science graduate and aspiring SOC Analyst focused on threat detection, OSINT, log
-analysis, and security automation. I have completed 100+ security labs on TryHackMe and developed
-technical projects through independent research. Currently, I’m actively building practical
-experience in network security, scripting, and incident response to position myself for a Security
-Operations role.
+analysis, and security automation. Having completed 100+ security rooms on TryHackMe and technical
+projects through independent research, I am actively building practical skills in network security,
+scripting, and incident response to prepare for a Security Operations role.
 
 == Projects & Research ==
 
