@@ -7,7 +7,7 @@ __THM_STATS__
 
 == Bio ===
 
-I am an aspiring SOC Analyst passionate about threat detection, SIEM, OSINT, and security automation. I specialize in log analysis, security research, and incident response. Through hands-on labs and independent research, I develop tools and techniques for network security, forensics, and monitoring.
+I am a Computer Science graduate and aspiring SOC Analyst focused on threat detection, OSINT, log analysis, and security automation. I have completed 100+ security labs on TryHackMe and developed technical projects through independent research. Currently, I’m actively building practical experience in network security, scripting, and incident response to position myself for a Security Operations role.
 
 == Projects & Research ==
 
