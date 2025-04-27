@@ -11,5 +11,16 @@ jobs:
   combined:
     runs-on: ubuntu-latest
     steps:
-     - uses: actions/checkout@v4
-     - run: make
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+      
+      - run: make
+      
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add --all
+          git diff-index --quiet HEAD || git commit -m "Auto-update files"
+          git push
