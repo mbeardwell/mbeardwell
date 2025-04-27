@@ -33,7 +33,7 @@ labs = get_text(page, SELECTORS["LABS"])
 
 # Write output .md
 with open('../docs/thm-stats.md', 'w') as file:
-    file.write(f"{percentile} TryHackMe | {labs} Labs | {badges} Badges\n")
+    file.write(f"{percentile} TryHackMe | {labs} Rooms | {badges} Badges\n")
 
 browser.close()
 playwright.stop()
