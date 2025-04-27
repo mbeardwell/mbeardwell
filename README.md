@@ -2,10 +2,10 @@
 
 <strong>mbeardwell@github</strong>:<strong>~/Documents</strong>$ cat about.txt
 
-== Bio ===
-
 Threat Detection | SIEM | OSINT | Security Automation
 Top 1% TryHackMe | 100+ Labs | 16 Badges
+
+== Bio ===
 
 I am an aspiring SOC Analyst with a passion for threat detection, SIEM, OSINT, and security
 automation. I specialize in log analysis, security research, and incident response. Through
