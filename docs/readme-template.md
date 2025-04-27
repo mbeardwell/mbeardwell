@@ -3,7 +3,7 @@
 <strong>mbeardwell@github</strong>:<strong>~/Documents</strong>$ cat about.txt
 
 Threat Detection | SIEM | OSINT | Security Automation
-Top 1% TryHackMe | 100+ Labs | 16 Badges
+__THM_STATS__
 
 == Bio ===
 
@@ -15,5 +15,4 @@ forensics, and security monitoring.
 == Projects & Research ==
 
 __TABLE__
-
 </pre>

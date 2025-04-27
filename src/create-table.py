@@ -41,4 +41,4 @@ for row in projects:
     table_str = re.sub(regex, replacement, table_str, flags=re.DOTALL)
 
 with open(TABLE_MD, 'w') as mdfile:
-    mdfile.write(table_str)
+    mdfile.write(table_str + "\n")
