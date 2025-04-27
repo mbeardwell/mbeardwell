@@ -6,7 +6,8 @@ import textwrap
 TABLE_MD = '../docs/table.md'
 PROJECTS_CSV = '../docs/projects.csv'
 HEADERS = {"Title": 0, "Repo": 1, "Description": 2}
-DESCR_WIDTH = 50
+DESCR_WIDTH = 60
+TABLE_STYLE = 'grid' # plain / grid / pipe / html / rst
 
 def get_row_val(row, key):
     return row[HEADERS[key]]
@@ -29,7 +30,7 @@ for row in filtered:
     row[indexTitle] = "~{}~".format(row[indexTitle])
     row[indexDesc] = textwrap.fill(row[indexDesc], width=DESCR_WIDTH)
 
-table_str = tabulate(filtered, headers=["Title", "Description"], tablefmt='grid', showindex=False)
+table_str = tabulate(filtered, headers=["Title", "Description"], tablefmt=TABLE_STYLE, showindex=False)
 
 # Replace 'Title' with hyperlinked text
 for row in projects:
