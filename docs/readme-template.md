@@ -1,4 +1,4 @@
-<pre>
+<pre style="white-space: pre-wrap; word-wrap: break-word;">
 
 <strong>mbeardwell@github</strong>:<strong>~/Documents</strong>$ cat about.txt
 
