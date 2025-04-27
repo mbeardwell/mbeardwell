@@ -1,13 +1,13 @@
-<pre>
+<pre style="white-space: pre-wrap; word-wrap: break-word;">
 
 <strong>mbeardwell@github</strong>:<strong>~/Documents</strong>$ cat about.txt
 
 Threat Detection | SIEM | OSINT | Security Automation
-Top 1% TryHackMe | 114 Rooms | 16 Badges
+Rank TryHackMe |  Rooms |  Badges
 
 == Bio ===
 
-I am an aspiring SOC Analyst passionate about threat detection, SIEM, OSINT, and security automation. I specialize in log analysis, security research, and incident response. Through hands-on labs and independent research, I develop tools and techniques for network security, forensics, and monitoring.
+I am a Computer Science graduate and aspiring SOC Analyst focused on threat detection, OSINT, log analysis, and security automation. I have completed 100+ security labs on TryHackMe and developed technical projects through independent research. Currently, I’m actively building practical experience in network security, scripting, and incident response to position myself for a Security Operations role.
 
 == Projects & Research ==
 
