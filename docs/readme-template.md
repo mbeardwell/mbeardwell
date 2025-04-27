@@ -5,7 +5,7 @@
 [+] Focus: Threat Detection | SIEM | OSINT | Security Automation
 [+] TryHackMe: __THM_STATS__
 
-== Bio ===
+== Bio ==
 
 __BIO__
 

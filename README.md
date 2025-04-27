@@ -3,10 +3,10 @@
 <strong>mbeardwell@github</strong>:<strong>~/projects/profile</strong>$ less about.txt
 
 [+] Focus: Threat Detection | SIEM | OSINT | Security Automation
-[+] TryHackMe: Top 1% TryHackMe | 114 Rooms | 16 Badges
+[+] TryHackMe: Top 1% | 114 Rooms | 16 Badges
     (Stats updated: Sun, 27 Apr 25)
 
-== Bio ===
+== Bio ==
 
 I am a Computer Science graduate and aspiring SOC Analyst focused on threat detection, OSINT, log
 analysis, and security automation. Having completed 100+ security rooms on TryHackMe and technical
