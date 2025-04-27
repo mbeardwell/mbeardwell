@@ -1,6 +1,8 @@
 <pre>
 
-<strong>mbeardwell@github</strong>:<strong>~/Documents</strong>$ cat banner.txt
+<strong>mbeardwell@github</strong>:<strong>~/Documents</strong>$ cat about.txt
+
+== Bio ===
 
 Threat Detection | SIEM | OSINT | Security Automation
 Top 1% TryHackMe | 100+ Labs | 16 Badges
@@ -13,6 +15,5 @@ forensics, and security monitoring.
 == Projects & Research ==
 
 __TABLE__
-<br>
 
 </pre>

@@ -1,6 +1,8 @@
 <pre>
 
-<strong>mbeardwell@github</strong>:<strong>~/Documents</strong>$ cat banner.txt
+<strong>mbeardwell@github</strong>:<strong>~/Documents</strong>$ cat about.txt
+
+== Bio ===
 
 Threat Detection | SIEM | OSINT | Security Automation
 Top 1% TryHackMe | 100+ Labs | 16 Badges
@@ -24,6 +26,5 @@ forensics, and security monitoring.
 | <a href="https://github.com/mbeardwell/osint-i3-case-study">Ethical OSINT Case Study</a>             | Reconstructed location and identity from minimal public   |
 |                                      | signals using posterised video frames, satellite imagery, |
 |                                      | and structured inference under the I3 model               |
-+--------------------------------------+-----------------------------------------------------------+<br>
-
++--------------------------------------+-----------------------------------------------------------+
 </pre>
