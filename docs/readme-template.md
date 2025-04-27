@@ -8,5 +8,6 @@ I am an <strong>aspiring SOC Analyst</strong> with a passion for <strong>threat 
 <strong>Projects & Research</strong>
 
 __TABLE__
+<br>
 
 </pre>

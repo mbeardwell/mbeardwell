@@ -27,16 +27,16 @@ filtered = filter(projects, ["Title", "Description"])
 for row in filtered:
     indexTitle, indexDesc = 0, 1
     row[indexTitle] = "~{}~".format(row[indexTitle])
-    row[indexDesc] = textwrap.fill(row[indexDesc], width=DESCR_WIDTH).replace('\n', '<br>')
+    row[indexDesc] = textwrap.fill(row[indexDesc], width=DESCR_WIDTH)
 
-table_str = tabulate(filtered, headers=["Title", "Description"], tablefmt='github', showindex=False)
+table_str = tabulate(filtered, headers=["Title", "Description"], tablefmt='grid', showindex=False)
 
 # Replace 'Title' with hyperlinked text
 for row in projects:
     repo = get_row_val(row, "Repo")
     title = get_row_val(row, "Title")
     regex = re.escape(f"~{title}~").replace(r'\ ', r'\s+')
-    replacement = f"<a href=\"https://github.com/mbeardwell/{repo}\">{title}</a>"
+    replacement = f"<a href=\"https://github.com/mbeardwell/{repo}\">{title}</a>  "
     table_str = re.sub(regex, replacement, table_str, flags=re.DOTALL)
 
 with open(TABLE_MD, 'w') as mdfile:
