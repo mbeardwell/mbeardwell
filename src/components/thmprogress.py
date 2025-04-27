@@ -1,8 +1,14 @@
 import constants
 from playwright.sync_api import sync_playwright
 
-def get_text(page, xpath):
+def wait_for_xpath(page, xpath):
+    page.wait_for_selector(f"xpath={xpath}")
+
+def get_text(page, selector):
+    xpath = constants.SELECTORS[selector]
+    wait_for_xpath(page, xpath)
     return page.locator(f"xpath={xpath}").all_inner_texts()[0]
+
 
 def create():
     # Navigate to my profile page
@@ -12,9 +18,9 @@ def create():
     page.goto(constants.URL)
 
     # Extract stats
-    percentile = get_text(page, constants.SELECTORS["PERCENTILE"]).title()
-    badges = get_text(page, constants.SELECTORS["BADGES"])
-    labs = get_text(page, constants.SELECTORS["LABS"])
+    percentile = get_text(page, "PERCENTILE").title()
+    badges = get_text(page, "BADGES")
+    labs = get_text(page, "LABS")
 
     # Write output .md
     with open(constants.THM_STATS_MD, 'w') as file:
