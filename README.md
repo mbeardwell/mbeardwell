@@ -1,19 +1,16 @@
-<h2 align="center">Threat Detection | SIEM | OSINT | Security Automation</h3>
-<h4 align="center">Top 1% TryHackMe | 100+ Labs | 16 Badges</h4>
+```bash
 
-I am an **aspiring SOC Analyst** with a passion for **threat detection, SIEM, OSINT, and security automation**. I specialize in **log analysis, security research, and incident response**. Through hands-on labs and independent research, I develop tools and techniques for **network security, forensics, and security monitoring**.
+<strong>Threat Detection | SIEM | OSINT | Security Automation</strong>
+<strong>Top 1% TryHackMe | 100+ Labs | 16 Badges</strong>
 
-<h4 align="center">
-Projects & Research
-</h4>
+I am an <strong>aspiring SOC Analyst</strong> with a passion for <strong>threat detection, SIEM, OSINT, and security automation</strong>. I specialize in <strong>log analysis, security research, and incident response</strong>. Through hands-on labs and independent research, I develop tools and techniques for <strong>network security, forensics, and security monitoring</strong>.
 
-<div align="center">
+<strong>Projects & Research</strong>
 
-| Title | Description |
-| --- | --- |
-| **[TCP Port Scanner](https://github.com/mbeardwell/simple-port-scanner)** | Python-based scanner to detect open ports & live hosts |
-| **[ARM Floating-Point Emulation](https://github.com/mbeardwell/arm-fp-emu)** | Optimizing binary instrumentation in ARM Linux |
-| **[Neural Network Language Classifier](https://github.com/mbeardwell/language-guesser)** | Classifies words into languages using a simple ML model |
-| **[Ethical OSINT Case Study](https://github.com/mbeardwell/osint-i3-case-study)** | Reconstructed location and identity from minimal public signals using posterised video frames, satellite imagery, and structured inference under the I3 model |
-
-</div>
+| Title                                | Description                                                                                                                                                                                                             |
+|--------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| <a href="https://github.com/mbeardwell/simple-port-scanner">TCP Port Scanner</a>                   | Python-<br>based<br>scanner to<br>detect<br>open ports<br>& live<br>hosts                                                                                                                                               |
+| <a href="https://github.com/mbeardwell/arm-fp-emu">ARM Floating-Point Emulation</a>       | Optimizing<br>binary ins<br>trumentati<br>on in ARM<br>Linux                                                                                                                                                            |
+| <a href="https://github.com/mbeardwell/language-guesser">Neural Network Language Classifier</a> | Classifies<br>words into<br>languages<br>using a<br>simple ML<br>model                                                                                                                                                  |
+| <a href="https://github.com/mbeardwell/osint-i3-case-study">Ethical OSINT Case Study</a>           | Reconstruc<br>ted<br>location<br>and<br>identity<br>from<br>minimal<br>public<br>signals<br>using<br>posterised<br>video<br>frames,<br>satellite<br>imagery,<br>and<br>structured<br>inference<br>under the<br>I3 model |
+```
