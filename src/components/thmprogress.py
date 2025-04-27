@@ -31,8 +31,9 @@ def create():
 
     # Write output .md
     with open(constants.THM_STATS_MD, 'w') as file:
-        updated_str = f"Updated: {datetime.today().strftime('%a, %d %b %y')}"
-        file.write(f"{percentile} TryHackMe | {labs} Rooms | {badges} Badges ({updated_str})\n")
+        file.write(f"{percentile} TryHackMe | {labs} Rooms | {badges} Badges\n")
+        updated_str = f"    (Stats updated: {datetime.today().strftime('%a, %d %b %y')})"
+        file.write(updated_str + "\n")
 
     browser.close()
     playwright.stop()

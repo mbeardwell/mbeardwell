@@ -2,8 +2,9 @@
 
 <strong>mbeardwell@github</strong>:<strong>~/Documents</strong>$ cat about.txt
 
-Threat Detection | SIEM | OSINT | Security Automation
-Top 1% TryHackMe | 114 Rooms | 16 Badges (Updated: Sun, 27 Apr 25)
+[+] Focus: Threat Detection | SIEM | OSINT | Security Automation
+[+] TryHackMe: Top 1% TryHackMe | 114 Rooms | 16 Badges
+    (Stats updated: Sun, 27 Apr 25)
 
 == Bio ===
 

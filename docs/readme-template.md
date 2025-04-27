@@ -2,8 +2,8 @@
 
 <strong>mbeardwell@github</strong>:<strong>~/Documents</strong>$ cat about.txt
 
-Threat Detection | SIEM | OSINT | Security Automation
-__THM_STATS__
+[+] Focus: Threat Detection | SIEM | OSINT | Security Automation
+[+] TryHackMe: __THM_STATS__
 
 == Bio ===
 
