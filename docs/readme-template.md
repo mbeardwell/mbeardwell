@@ -1,6 +1,6 @@
 <pre>
 
-<strong>mbeardwell@github</strong>:<strong>~/Documents</strong>$ cat about.txt
+<strong>mbeardwell@github</strong>:<strong>~/projects/profile</strong>$ less about.txt
 
 [+] Focus: Threat Detection | SIEM | OSINT | Security Automation
 [+] TryHackMe: __THM_STATS__
@@ -12,4 +12,6 @@ __BIO__
 == Projects & Research ==
 
 __TABLE__
+(END)
+:
 </pre>
