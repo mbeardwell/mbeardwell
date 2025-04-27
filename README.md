@@ -3,7 +3,7 @@
 <strong>mbeardwell@github</strong>:<strong>~/Documents</strong>$ cat about.txt
 
 Threat Detection | SIEM | OSINT | Security Automation
-Rank TryHackMe |  Rooms |  Badges
+Top 1% TryHackMe | 114 Rooms | 16 Badges
 
 == Bio ===
 

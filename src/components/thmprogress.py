@@ -13,9 +13,16 @@ def get_text(page, selector):
 def create():
     # Navigate to my profile page
     playwright = sync_playwright().start()
-    browser = playwright.chromium.launch()
-    page = browser.new_page()
-    page.goto(constants.URL)
+    browser = playwright.chromium.launch(
+        headless=True,
+        args=["--window-size=1920,1080"]
+    )
+    page = browser.new_page(
+        viewport={"width": 1920, "height": 1080},
+        device_scale_factor=1,
+        user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"
+    )
+    page.goto(constants.URL, wait_until="networkidle")
 
     # Extract stats
     percentile = get_text(page, "PERCENTILE").title()
