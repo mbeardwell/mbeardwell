@@ -1,3 +1,1 @@
-from . import bio
-from . import table
-from . import thmprogress
+from . import bio, table, thmprogress

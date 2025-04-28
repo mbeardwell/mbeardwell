@@ -14,10 +14,10 @@ table = open(TABLE_MD).read()
 
 # Install component markdown files into README
 output = readme_template
-output = output.replace('__BIO__\n', bio)
-output = output.replace('__THM_STATS__\n', thm_stats)
-output = output.replace('__TABLE__\n', table)
+output = output.replace("__BIO__\n", bio)
+output = output.replace("__THM_STATS__\n", thm_stats)
+output = output.replace("__TABLE__\n", table)
 
 # Write README
-with open('../README.md', 'w') as file:
+with open("../README.md", "w", encoding="utf-8") as file:
     file.write(output)
