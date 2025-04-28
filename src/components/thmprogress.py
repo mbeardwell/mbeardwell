@@ -1,15 +1,23 @@
 from datetime import datetime
+from typing import Optional
 
 import requests
+from requests import Response
 
 import constants
 
 
 def create() -> None:
-    # Downlaod my statistics from TryHackMe profile API
-    response = requests.get(constants.ENDPOINT)
-    response.raise_for_status()
-    data = response.json()["data"]
+    r: Optional[Response] = None
+
+    try:
+        # Download my statistics from TryHackMe profile API
+        r = requests.get(constants.ENDPOINT, timeout=30000)
+    except Exception as e:
+        raise TimeoutError(f"Failed to get TryHackMe stats: {e}") from e
+
+    r.raise_for_status()
+    data = r.json()["data"]
 
     # Extract stats
     top_percentage = data["topPercentage"]
