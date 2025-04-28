@@ -1,4 +1,3 @@
-
 BIO_MD = '../docs/bio.md'
 PROJECTS_CSV = '../docs/projects.csv'
 README_TEMPLATE_MD = '../docs/readme-template.md'
@@ -10,7 +9,6 @@ THM_STATS_MD = '../docs/output/thm-stats.md'
 BIO_WIDTH = 100
 DESCR_WIDTH = 60
 
-HEADERS = {"Title": 0, "Repo": 1, "Description": 2}
 TABLE_STYLE = 'grid' # plain / grid / pipe / html / rst
 
 URL = "https://tryhackme.com/p/mbeardwell"
