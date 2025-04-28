@@ -1,23 +1,28 @@
-from constants import *
 import components
+import constants
 
-readme_template = open(README_TEMPLATE_MD).read()
 
-# Create and read markdown components
+def read_file(path: str) -> str:
+    return open(path, encoding="utf-8").read()
+
+
+# Create markdown components
 components.bio.create()
 components.table.create()
 components.thmprogress.create()
 
-bio = open(BIO_WRAPPED_MD).read()
-thm_stats = open(THM_STATS_MD).read()
-table = open(TABLE_MD).read()
+# Read markdown components and the readme template
+bio: str = read_file(constants.BIO_WRAPPED_MD)
+thm_stats: str = read_file(constants.THM_STATS_MD)
+table: str = read_file(constants.TABLE_MD)
+readme_template: str = read_file(constants.README_TEMPLATE_MD)
 
-# Install component markdown files into README
-output = readme_template
+# Insert markdown components into readme template
+output: str = readme_template
 output = output.replace("__BIO__\n", bio)
 output = output.replace("__THM_STATS__\n", thm_stats)
 output = output.replace("__TABLE__\n", table)
 
-# Write README
-with open("../README.md", "w", encoding="utf-8") as file:
+# Write readme
+with open(constants.README, "w", encoding="utf-8") as file:
     file.write(output)

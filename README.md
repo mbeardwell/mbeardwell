@@ -3,8 +3,8 @@
 <strong>mbeardwell@github</strong>:<strong>~/projects/profile</strong>$ less about.txt
 
 [+] Focus: Threat Detection | SIEM | OSINT | Security Automation
-[+] TryHackMe: Rank | 114 Rooms | 16 Badges
-    (Stats updated: Mon, 28 Apr 25)
+[+] TryHackMe: Top 1% | 114 Rooms | 16 Badges
+    (Stats updated: Mon, 28 Apr 2025)
 
 == Bio ==
 

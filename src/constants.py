@@ -1,20 +1,15 @@
-BIO_MD = "../docs/bio.md"
-PROJECTS_CSV = "../docs/projects.csv"
-README_TEMPLATE_MD = "../docs/readme-template.md"
+BIO_MD: str = "docs/bio.md"
+PROJECTS_CSV: str = "docs/projects.csv"
+README_TEMPLATE_MD: str = "docs/readme-template.md"
 
-BIO_WRAPPED_MD = "../docs/output/bio-wrapped.md"
-TABLE_MD = "../docs/output/table.md"
-THM_STATS_MD = "../docs/output/thm-stats.md"
+BIO_WRAPPED_MD: str = "docs/output/bio-wrapped.md"
+TABLE_MD: str = "docs/output/table.md"
+THM_STATS_MD: str = "docs/output/thm-stats.md"
+README: str = "README.md"
 
-BIO_WIDTH = 100
-DESCR_WIDTH = 60
+BIO_WIDTH: int = 100
+DESCR_WIDTH: int = 60
 
-TABLE_STYLE = "grid"  # plain / grid / pipe / html / rst
+TABLE_STYLE: str = "grid"  # plain / grid / pipe / html / rst
 
-URL = "https://tryhackme.com/p/mbeardwell"
-
-SELECTORS = {
-    "PERCENTILE": '//*[@id="middle-panel"]/div/main/section/div[1]/div/div[2]/div[1]/div[1]',
-    "BADGES": '//*[@id="middle-panel"]/div/main/section/div[1]/div/div[2]/div[2]/div[2]/span',
-    "LABS": '//*[@id="middle-panel"]/div/main/section/div[1]/div/div[2]/div[4]/div[2]/span',
-}
+ENDPOINT: str = "https://tryhackme.com/api/v2/public-profile?username=mbeardwell"
