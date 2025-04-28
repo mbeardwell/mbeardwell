@@ -22,7 +22,7 @@ def create():
         device_scale_factor=1,
         user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"
     )
-    page.goto(constants.URL, wait_until="networkidle")
+    page.goto(constants.URL, wait_until="load")
 
     # Extract stats
     percentile = get_text(page, "PERCENTILE").title()
