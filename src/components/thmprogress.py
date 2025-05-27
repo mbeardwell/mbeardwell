@@ -26,7 +26,7 @@ def create() -> None:
 
     # Write output .md
     with open(constants.THM_STATS_MD, "w", encoding="utf-8") as file:
-        file.write(f"Top {top_percentage}% | {rooms} Rooms | {badges} Badges\n")
+        file.write(f"Top {top_percentage}% · {rooms} Rooms · {badges} Badges\n")
         updated_str = (
             " " * 4 + f"(Stats updated: {datetime.today().strftime('%a, %d %b %Y at %H:%M:%S')})"
         )
