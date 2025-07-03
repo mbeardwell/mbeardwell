@@ -1,1 +1,1 @@
-I am a Computer Science graduate and aspiring SOC Analyst focused on threat detection, OSINT, log analysis, and security automation. Having completed 100+ security rooms on TryHackMe and technical projects through independent research, I am actively building practical skills in network security, scripting, and incident response to prepare for a Security Operations role.
+Training in practical security through hands-on labs and digital investigations.
