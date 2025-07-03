@@ -2,7 +2,7 @@
 
 <strong>mbeardwell@github</strong>:<strong>~/projects/profile</strong>$ less about.txt
 
-[+] Focus: Threat Detection · SIEM · OSINT · Security Automation
+[+] Focus: SOC Operations · OSINT
 [+] TryHackMe: __THM_STATS__
 
 == Bio ==
