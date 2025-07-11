@@ -3,8 +3,8 @@
 <strong>mbeardwell@github</strong>:<strong>~/projects/profile</strong>$ less about.txt
 
 [+] Focus: SOC Operations · OSINT
-[+] TryHackMe: Top 2% · 115 Rooms · 17 Badges
-    (Stats updated: Thu, 10 Jul 2025 at 07:03:41)
+[+] TryHackMe: Top 2% · 116 Rooms · 17 Badges
+    (Stats updated: Fri, 11 Jul 2025 at 07:03:35)
 
 == Bio ==
 
