@@ -2,9 +2,9 @@
 
 <strong>mbeardwell@github</strong>:<strong>~/projects/profile</strong>$ less about.txt
 
-[+] Focus: SOC Operations · OSINT
+[+] Focus: Reverse Engineering | Digital Forensics | OSINT
 [+] TryHackMe: Top 2% · 116 Rooms · 17 Badges
-    (Stats updated: Fri, 11 Jul 2025 at 07:03:35)
+    (Stats updated: Sat, 12 Jul 2025 at 00:24:31)
 
 == Bio ==
 
