@@ -4,7 +4,7 @@
 
 [+] Focus: Reverse Engineering | Digital Forensics | OSINT
 [+] TryHackMe: Top 2% | 116 Rooms | 17 Badges
-    (Stats updated: Sun, 13 Jul 2025 at 07:03:25)
+    (Stats updated: Mon, 14 Jul 2025 at 07:04:32)
 
 == Bio ==
 
