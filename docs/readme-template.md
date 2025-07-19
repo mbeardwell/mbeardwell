@@ -2,7 +2,7 @@
 
 <strong>mbeardwell@github</strong>:<strong>~/projects/profile</strong>$ less about.txt
 
-[+] Focus: Reverse Engineering | Digital Forensics | OSINT
+[+] Focus: Digital Forensics | OSINT
 [+] TryHackMe: __THM_STATS__
 
 == Bio ==
