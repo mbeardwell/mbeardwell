@@ -4,7 +4,7 @@
 
 [+] Focus: Digital Forensics | OSINT
 [+] TryHackMe: Top 2% | 127 Rooms | 17 Badges
-    (Stats updated: Sun, 01 Mar 2026 at 07:12:56)
+    (Stats updated: Mon, 02 Mar 2026 at 07:19:56)
 
 == Bio ==
 
