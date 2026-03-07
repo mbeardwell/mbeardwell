@@ -3,8 +3,8 @@
 <strong>mbeardwell@github</strong>:<strong>~/projects/profile</strong>$ less about.txt
 
 [+] Focus: Digital Forensics | OSINT
-[+] TryHackMe: Top 2% | 127 Rooms | 17 Badges
-    (Stats updated: Fri, 06 Mar 2026 at 07:15:14)
+[+] TryHackMe: Top 2% | 114 Rooms | 17 Badges
+    (Stats updated: Sat, 07 Mar 2026 at 07:08:43)
 
 == Bio ==
 
