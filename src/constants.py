@@ -12,4 +12,5 @@ DESCR_WIDTH: int = 60
 
 TABLE_STYLE: str = "grid"  # plain / grid / pipe / html / rst
 
-ENDPOINT: str = "https://tryhackme.com/api/v2/public-profile?username=mbeardwell"
+# ENDPOINT: str = "https://tryhackme.com/api/v2/public-profile?username=mbeardwell"
+ENDPOINT: str = "https://thm-mbeardwell.matthewbeardwell.workers.dev"
